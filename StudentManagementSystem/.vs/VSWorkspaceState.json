@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\StudentManagementSystem",
+    "\\StudentManagementSystem\\Context",
+    "\\StudentManagementSystem\\Controllers",
+    "\\StudentManagementSystem\\Migrations",
+    "\\StudentManagementSystem\\Views",
+    "\\StudentManagementSystem\\Views\\Home",
+    "\\StudentManagementSystem\\wwwroot",
+    "\\StudentManagementSystem\\wwwroot\\js",
+    "\\StudentManagementSystem\\wwwroot\\lib"
+  ],
+  "SelectedNode": "\\StudentManagementSystem\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
