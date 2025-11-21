@@ -29,6 +29,11 @@
 | Student List | Student Details | Create Student | Edit Student | Delete Confirmation |
 |:---:|:---:|:---:|:---:|:---:|
 | ![Student List](screenshots/student-list.png) | ![Student Details](screenshots/student-details.png) | ![Create Student](screenshots/create-student.png) | ![Edit Student](screenshots/edit-student.png) | ![Delete Student](screenshots/delete-student.png) |
+<img width="720" height="539" alt="Create New Stduent" src="https://github.com/user-attachments/assets/9efeaed3-8a3c-439a-b111-423ea2d34665" />
+<img width="720" height="700" alt="Edit Student" src="https://github.com/user-attachments/assets/61ab6ed0-fdd9-44e3-859a-a24d91b35b15" />
+<img width="1380" height="459" alt="student-list" src="https://github.com/user-attachments/assets/6da6358a-d5f0-4623-af6a-7d9d7a4edb1a" />
+<img width="555" height="321" alt="Delete Student" src="https://github.com/user-attachments/assets/a6cc5d3a-dab5-4faf-9f84-dabd76651455" />
+<img width="806" height="147" alt="Database" src="https://github.com/user-attachments/assets/8c91e144-64a9-44a6-a1e5-007eb40b8349" />
 
 ---
 
